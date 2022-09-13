@@ -11,7 +11,7 @@ body{
 }
 
 .player{
-    margin-block-start: 100%;
+    margin-block-start: 10%;
     /* border: 10px solid red; */
     position: relative;
 }
